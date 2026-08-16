@@ -13,13 +13,13 @@ Desenvolver a interface estrutural de um petshop para exibição de produtos org
 
 A página web foi estruturada com as seguintes seções semânticas:
 
-* Cabeçalho (<header>): Contém o nome do petshop e o menu de navegação (<nav>) com links diretos para as seções da página.
-* Produtos (<main>): Exibição de 3 categorias distintas (Rações, Brinquedos e Acessórios), contendo 2 produtos em cada categoria com:
+* Cabeçalho (header): Contém o nome do petshop e o menu de navegação (<nav>) com links diretos para as seções da página.
+* Produtos (main): Exibição de 3 categorias distintas (Rações, Brinquedos e Acessórios), contendo 2 produtos em cada categoria com:
   * Imagem do produto
   * Nome e descrição
   * Valor do item
-* Serviços (<main>): Lista dos serviços prestados pelo petshop com descrição, valor e indicação sobre a disponibilidade de tele-busca.
-* Rodapé (<footer>): Informações de autoria do projeto, dados fictícios de contato e links rápidos para navegação.
+* Serviços (main): Lista dos serviços prestados pelo petshop com descrição, valor e indicação sobre a disponibilidade de tele-busca.
+* Rodapé (footer): Informações de autoria do projeto, dados fictícios de contato e links rápidos para navegação.
 
 ---
 
